@@ -1,6 +1,9 @@
 Marketing
 - Facebook Ads
+  ^ Memaksimalkan konversi
+  ^ Menganalisa Insight
 - Instagram Ads
+  ^ Mencari target market
 - SEO
 - Google Ads
 - Youtube ads
